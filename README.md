@@ -24,3 +24,16 @@ Nama panggilan / akun GitHub: GedePradhana
 ## Status
 Proyek awal perkuliahan.
 
+## Rencana Fitur
+
+1. Menampilkan halaman utama aplikasi.
+2. Menampilkan daftar dan informasi produk.
+3. Menyediakan fitur pencarian produk.
+
+## Cara Menjalankan
+Pastikan Flutter sudah terpasang dan telah dikonfigurasi pada lingkungan pengembangan.
+
+Jalankan perintah berikut pada terminal:
+
+flutter pub get
+flutter run
