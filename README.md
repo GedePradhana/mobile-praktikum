@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Deskripsi
 Aplikasi latihan Flutter untuk memenuhi tugas praktikum Pemrograman Mobile.
 ## Pengembangan
-Nama panggilan / akun GitHub: GedePradhana
+Nama panggilan / akun GitHub: GedePradhana.
 ## Status
 Proyek awal perkuliahan.
 
@@ -34,6 +34,5 @@ Proyek awal perkuliahan.
 Pastikan Flutter sudah terpasang dan telah dikonfigurasi pada lingkungan pengembangan.
 
 Jalankan perintah berikut pada terminal:
-
 flutter pub get
 flutter run
